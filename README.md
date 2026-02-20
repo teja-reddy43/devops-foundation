@@ -16,5 +16,8 @@ netstat -- network statistics Used to check: Open ports,Listening services,Activ
 ss -- socket statistics faster than netstat Shows:Listening ports, Active connections, PID using port  
 curl -- transfer data from URL Used to test APIs, services, endpoints  
 wget -- download files Often used to download:Packages, Binaries, Install scripts  
+grep -- used to search for patterns inside files  
+sed -- stream editor (modify text) Used to modify or replace text inside files  
+awk -- patterning scanning and data extraction is used to extract columns and process structured text.  
 
 

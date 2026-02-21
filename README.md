@@ -19,5 +19,4 @@ wget -- download files Often used to download:Packages, Binaries, Install script
 grep -- used to search for patterns inside files  
 sed -- stream editor (modify text) Used to modify or replace text inside files  
 awk -- patterning scanning and data extraction is used to extract columns and process structured text.  
-
-
+chattr -- The chattr command is used to change special attributes of files in Linux. These attributes provide extra protection beyond standard file permissions.  

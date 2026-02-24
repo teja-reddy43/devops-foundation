@@ -22,4 +22,6 @@ awk -- patterning scanning and data extraction is used to extract columns and pr
 chattr -- The chattr command is used to change special attributes of files in Linux. These attributes provide extra protection beyond standard file permissions.  
 cksum -- The cksum command generates a checksum and file size. It helps verify file integrity during transfers.  
 chgrp -- The chgrp command is used to change the group ownership of files and directories. It helps manage shared access among users belonging to the same group.  
+chage -- The chage command is used to view and modify password aging information for a user account. It helps enforce password expiry and security policies.  
+
 

@@ -25,5 +25,7 @@ chgrp -- The chgrp command is used to change the group ownership of files and di
 chage -- The chage command is used to view and modify password aging information for a user account. It helps enforce password expiry and security policies.  
 fg -- The fg command brings a background job to the foreground. It allows interaction with the running process.  
 xdg-open --The xdg-open command is used to open files, directories, or URLs using the system’s default applications. It works in graphical desktop environments.  
+fdisk -- The fdisk command is used to create, delete, and manage disk partitions.  
+
 
 

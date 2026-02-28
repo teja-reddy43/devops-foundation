@@ -26,6 +26,9 @@ chage -- The chage command is used to view and modify password aging information
 fg -- The fg command brings a background job to the foreground. It allows interaction with the running process.  
 xdg-open --The xdg-open command is used to open files, directories, or URLs using the system’s default applications. It works in graphical desktop environments.  
 fdisk -- The fdisk command is used to create, delete, and manage disk partitions.  
+iotop -- The iotop command monitors disk I/O usage by processes.  
+iostat -- The iostat command displays CPU and disk I/O statistics.  
+
 
 
 

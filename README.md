@@ -28,6 +28,7 @@ xdg-open --The xdg-open command is used to open files, directories, or URLs usin
 fdisk -- The fdisk command is used to create, delete, and manage disk partitions.  
 iotop -- The iotop command monitors disk I/O usage by processes.  
 iostat -- The iostat command displays CPU and disk I/O statistics.  
+nslookup -- The nslookup command in Linux is used to query Domain Name System (DNS) servers and retrieve information about domain names, IP addresses, and DNS records. It is a helpful tool for network troubleshooting, diagnosing DNS issues, and verifying domain resolution  
 
 
 

@@ -32,6 +32,7 @@ nslookup -- The nslookup command in Linux is used to query Domain Name System (D
 tr -- The tr command translates or deletes characters.  
 fmt -- The fmt command formats and wraps text files.  
 exec -- The exec command is used to replace the current shell process with another command. Unlike normal command execution, exec does not create a new process. Instead, it runs the specified command in place of the current shell, meaning the shell does not return after execution.  
+addr2line -- The addr2line command converts memory addresses into file names and line numbers.  
 
 
 

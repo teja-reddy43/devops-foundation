@@ -34,6 +34,8 @@ fmt -- The fmt command formats and wraps text files.
 exec -- The exec command is used to replace the current shell process with another command. Unlike normal command execution, exec does not create a new process. Instead, it runs the specified command in place of the current shell, meaning the shell does not return after execution.  
 addr2line -- The addr2line command converts memory addresses into file names and line numbers.  
 systemctl -- The systemctl command is used to manage services controlled by systemd.  
+last -- The last command displays the login and logout history of users.  
+
 
 
 

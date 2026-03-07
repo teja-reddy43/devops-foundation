@@ -35,6 +35,7 @@ exec -- The exec command is used to replace the current shell process with anoth
 addr2line -- The addr2line command converts memory addresses into file names and line numbers.  
 systemctl -- The systemctl command is used to manage services controlled by systemd.  
 last -- The last command displays the login and logout history of users.  
+biff -- The biff command is used to enable or disable mail notification alerts for a user.  
 
 
 
